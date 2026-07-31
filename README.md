@@ -8,11 +8,11 @@ A full-stack pocket money management application that helps families track allow
 
 ### Sign Up / Sign In & Kid Portal
 
-![Kid Portal Demo](./frontend/assets/image/demo.gif)
+[Watch the Kid Portal demo](./frontend/assets/image/demo.gif)
 
 ### Parent Portal
 
-![Parent Portal Demo](./frontend/assets/image/demo-parent.gif)
+[Watch the Parent Portal demo](./frontend/assets/image/demo-parent.gif)
 
 ---
 
