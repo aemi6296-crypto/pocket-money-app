@@ -4,7 +4,7 @@ A full-stack pocket money management application that helps families track allow
 
 ---
 
-## Demo vedios
+## Demo Vedios
 
 ### Sign Up / Sign In & Kid Portal
 
