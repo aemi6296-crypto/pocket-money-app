@@ -3,7 +3,7 @@
 A full-stack pocket money management application that helps families track allowances, expenses, and wishlists in one place. Parents and children each have their own accounts, making it easy to manage pocket money, monitor spending, and plan for wishlist items from a single app.
 ---
 
-## Demo
+## Demo Vedios
 
 ### Sign Up / Sign In & Kid Portal
 
@@ -114,7 +114,7 @@ Ensure Firebase is configured for Flutter (via `flutterfire configure`, or by ma
 
 ---
 
-## Environment Variables & Secrets
+## Environment Variables 
 
 The following files contain sensitive credentials and are intentionally excluded from this repository via `.gitignore`:
 
@@ -147,7 +147,7 @@ FIREBASE_PROJECT_ID=your-firebase-project-id
 
 ---
 
-## Hosting / Deployment
+## Hosting 
 
 ### Backend (Node.js + Express)
 
