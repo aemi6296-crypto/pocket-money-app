@@ -6,10 +6,13 @@ A full-stack pocket money management application that helps families track allow
 
 ## Demo
 
-<!-- Replace the link below with your actual demo video link once uploaded -->
-[Watch the demo video](./frontend/assets/image/demo.gif)
+### Sign Up / Sign In & Kid Portal
 
-> Note: GitHub cannot preview video files directly in the browser if they are too large. Click the link above, then click **"View raw"** or **"Download"** to download the video and watch it locally.
+![Kid Portal Demo](./frontend/assets/image/demo.gif)
+
+### Parent Portal
+
+![Parent Portal Demo](./frontend/assets/image/demo-parent.gif)
 
 ---
 
@@ -112,7 +115,7 @@ Ensure Firebase is configured for Flutter (via `flutterfire configure`, or by ma
 
 ---
 
-## Environment Variables 
+## Environment Variables & Secrets
 
 The following files contain sensitive credentials and are intentionally excluded from this repository via `.gitignore`:
 
@@ -145,7 +148,7 @@ FIREBASE_PROJECT_ID=your-firebase-project-id
 
 ---
 
-## Hosting 
+## Hosting / Deployment
 
 ### Backend (Node.js + Express)
 
