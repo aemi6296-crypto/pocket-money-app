@@ -1,10 +1,10 @@
-# Pocket Money App
+# <img src="./frontend/assets/image/app_icon.png" width="40" alt="App Icon" /> Pocket Money App
 
 A full-stack pocket money management application that helps families track allowances, expenses, and wishlists in one place. Parents and children each have their own accounts, making it easy to manage pocket money, monitor spending, and plan for wishlist items from a single app.
 
 ---
 
-## Demo Vedios
+## Demo
 
 ### Sign Up / Sign In & Kid Portal
 
