@@ -110,7 +110,7 @@ Ensure Firebase is configured for Flutter (via `flutterfire configure`, or by ma
 
 ---
 
-## Environment Variables & Secrets
+## Environment Variables 
 
 The following files contain sensitive credentials and are intentionally excluded from this repository via `.gitignore`:
 
@@ -143,7 +143,7 @@ FIREBASE_PROJECT_ID=your-firebase-project-id
 
 ---
 
-## Hosting / Deployment
+## Hosting 
 
 ### Backend (Node.js + Express)
 
