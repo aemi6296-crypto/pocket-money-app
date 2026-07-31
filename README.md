@@ -7,7 +7,7 @@ A full-stack pocket money management application that helps families track allow
 ## Demo
 
 <!-- Replace the link below with your actual demo video link once uploaded -->
-[Watch the demo video](./frontend/assets/image/demo.mp4)
+[Watch the demo video](./frontend/assets/image/demo.gif)
 
 > Note: GitHub cannot preview video files directly in the browser if they are too large. Click the link above, then click **"View raw"** or **"Download"** to download the video and watch it locally.
 
