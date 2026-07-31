@@ -3,7 +3,7 @@
 A full-stack pocket money management application that helps families track allowances, expenses, and wishlists in one place. Parents and children each have their own accounts, making it easy to manage pocket money, monitor spending, and plan for wishlist items from a single app.
 ---
 
-## Demo Vedios
+## Demo Videos
 
 ### Sign Up / Sign In & Kid Portal
 
