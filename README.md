@@ -1,7 +1,6 @@
-# <img src="./frontend/assets/image/app_icon.png" width="40" alt="App Icon" /> Pocket Money App
+<table> <tr> <td><img src="./frontend/assets/image/app_icon.png" width="50" alt="App Icon" /></td> <td><h1>Pocket Money App</h1></td> </tr> </table>
 
 A full-stack pocket money management application that helps families track allowances, expenses, and wishlists in one place. Parents and children each have their own accounts, making it easy to manage pocket money, monitor spending, and plan for wishlist items from a single app.
-
 ---
 
 ## Demo
