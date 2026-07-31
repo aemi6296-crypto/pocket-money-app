@@ -176,12 +176,12 @@ Steps to deploy on Railway:
 This project was built as an educational, full-stack learning project to demonstrate how a Flutter frontend and a Node.js/Express backend can work together with Firebase for authentication and real-time data storage. It showcases practical concepts such as parent-child account management, real-time syncing, and secure API design — intended for learning, portfolio building, and personal use rather than commercial deployment.
 
 ---
-Contributors
+## Contributors
 
 This project was built collaboratively by two contributors, each focused on a different part of the stack:
 
 <table> <tr> <td align="center" width="200"> <a href="https://github.com/aemi6296-crypto"> <img src="https://github.com/aemi6296-crypto.png" width="100" style="border-radius: 50%;" alt="Frontend Developer" /><br /> <b>Frontend Developer</b> </a> <br /> Flutter (Dart) UI & app development </td> <td align="center" width="200"> <a href="https://github.com/imtisal-zainab-hashmi"> <img src="https://github.com/imtisal-zainab-hashmi.png" width="100" style="border-radius: 50%;" alt="Backend Developer" /><br /> <b>Backend Developer</b> </a> <br /> (Node.js, Express, Firebase) development </td> </tr> </table>
-
+---
 ## License
 
 This project is licensed for **educational and personal use only**.
